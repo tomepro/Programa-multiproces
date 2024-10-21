@@ -10,7 +10,6 @@ Este proyecto en C++ utiliza el sistema de creación de procesos mediante `fork(
 ## Compilación
 
 Para compilar el programa, utiliza el siguiente comando en la terminal:
-
 `g++ -o fork fork.cpp`
 Este comando genera un ejecutable llamado fork a partir del archivo fork.cpp.
 
